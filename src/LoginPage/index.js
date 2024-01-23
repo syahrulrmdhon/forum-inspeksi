@@ -127,9 +127,9 @@ const LoginPage = () => {
                 >
                     <img src={mainLogo} className="logo-login" alt="fireSpot" />
                     <div>
-                        <h1 className="mt-2 mb-0">
-                            <a href="">Forum Inspeksi</a>
-                        </h1>
+                        <h4 className="mt-2 mb-1">
+                            <a href="">Kertas Kerja Penetapan Target Inspeksi CPOB Tahun 2024</a>
+                        </h4>
                         <h4
                             style={{
                                 fontFamily: '"Open Sans", sans-serif',
