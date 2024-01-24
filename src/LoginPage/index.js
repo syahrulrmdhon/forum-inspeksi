@@ -77,6 +77,16 @@ const LoginPage = () => {
             password: 'tangerang102',
             url: 'https://docs.google.com/spreadsheets/d/1uDoOcaafDw4k2u7_TXQRucBMY2LMSbwHM6BwvO6JA08/edit?usp=drive_link'
         },
+        {
+            username: 'andreashadikusuma',
+            password: 'kediri103',
+            url: 'https://docs.google.com/spreadsheets/d/1TrNrhbTsur6IzA6fdSdBnJCsDfJHCbm8o6fRX759Irg/edit?usp=drive_link',
+        },
+        {
+            username: 'diangustanti',
+            password: 'serang104',
+            url:'https://docs.google.com/spreadsheets/d/1oc5HNvZlu1g4KOgaVdKgmBobp9SuukVoR2aLCQpxko4/edit?usp=drive_link'
+        }
 
     ])
 
